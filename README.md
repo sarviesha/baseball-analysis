@@ -98,3 +98,20 @@ Through this project, I practised:
 ![Top Home-Run Hitters](charts/top_home_run_hitters.png)
 
 This chart visualises the top home-run hitters identified in the baseball dataset.
+## Key Findings
+
+### Career Records
+- **Most career home runs:** Barry Bonds, with 762 home runs.
+- **Most career hits:** Pete Rose, with 4,256 hits.
+
+### Historical Trends
+- **Most home runs in a single year:** 2019, with 6,776 home runs.
+- **Most hits in a single year:** 1999, with 45,327 hits.
+- **Highest team home-run total in a single season:** The Minnesota Twins (2019) and Atlanta Braves (2023), tied at 307 home runs each.
+
+### Player Performance
+- Barry Bonds leads the career home-run list, while Pete Rose leads the career hits list.
+- The analysis compares home runs, hits, runs, RBI, and batting averages to explore different aspects of player performance.
+
+### What I Learned
+This project helped me practise using Pandas to group and analyse historical data, identify record-holding players and seasons, and create visualisations with Matplotlib. It also helped me develop skills in organising Python code and communicating findings through data.
