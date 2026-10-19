@@ -91,3 +91,10 @@ Through this project, I practised:
 ---
 
 *This project is part of my journey into Python programming and data science.*
+## Sample Visualisation
+
+### Top Home-Run Hitters
+
+![Top Home-Run Hitters](charts/top_home_run_hitters.png)
+
+This chart visualises the top home-run hitters identified in the baseball dataset.
